@@ -1,6 +1,6 @@
 ### Hello, this is the account page for any projects made by Splat!
 
-- 🔭 I’m currently working on a Game Project: "Crossy Invaders"
+- 🔭 I’m currently working on a Horror VR Game Project: "The Cubicle"
 - 🌱 I’m currently learning Unity
 - 🌲 I'm hoping to learn Virtual Reality Coding
 - 🤔 I’m looking for help with Animation/Modeling
