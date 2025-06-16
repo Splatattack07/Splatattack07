@@ -1,4 +1,4 @@
-### Hello, this is the account page for any projects made by Splat!
+### Heyoo, this is the account page for any projects made by Splat.
 
 - 🔭 I’m currently working on a Horror VR Game Project: "The Cubicle"
 - 🌱 I’m currently learning Unity
